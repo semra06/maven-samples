@@ -25,10 +25,10 @@
       <plugin>
         <groupId>org.apache.maven.plugins</groupId>
         <artifactId>maven-compiler-plugin</artifactId>
-        <version>3.8.1</version> <!-- Güncel sürüm numarasını kullanın -->
+        <version>3.8.7</version> <!-- Güncel sürüm numarasını kullanın -->
         <configuration>
-          <source>21.0.4</source> <!-- Java sürümünüzü buraya girin -->
-          <target>21.0.4</target> <!-- Java sürümünüzü buraya girin -->
+          <source>1.8</source> <!-- Java sürümünüzü buraya girin -->
+          <target>1.8</target> <!-- Java sürümünüzü buraya girin -->
         </configuration>
       </plugin>
     </plugins>
